@@ -1,0 +1,26 @@
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=ffffff)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust&color=ffffff&logoColor=000000)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL&color=ffffff&logoColor=000000)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&color=ffffff&logoColor=000000)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&color=ffffff&logoColor=000000)
+
+### Data Tools
+
+![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=googlebigquery&color=ffffff)
+![Airflow](https://img.shields.io/badge/-Airflow-000?&logo=apacheairflow&color=ffffff&logoColor=26235b)
+![Databricks](https://img.shields.io/badge/-Databricks-000?&logo=databricks&color=ffffff)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql&color=ffffff)
+![MondoDb](https://img.shields.io/badge/-MongoDb-000?&logo=mongodb&color=ffffff)
+
+### Technologies
+
+![GCP](https://img.shields.io/badge/-GoogleCloud-000?&logo=googlecloud&color=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=ffffff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&color=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&color=ffffff)
+![GitHubActions](https://img.shields.io/badge/-GitHubActions-000?&logo=github&color=ffffff&logoColor=000000)
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leftkats&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=5&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
