@@ -22,5 +22,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&color=ffffff)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-000?&logo=github&color=ffffff&logoColor=000000)
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leftkats&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=5&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
