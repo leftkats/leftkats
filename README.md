@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leftkats/leftkats/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leftkats/leftkats/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leftkats/leftkats/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust&color=ffffff&logoColor=000000)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL&color=ffffff&logoColor=000000)
