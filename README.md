@@ -60,3 +60,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="webpack" width="40" height="40"/>
   </a>
 </p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/leftkats/count.svg"/>
+</p>
