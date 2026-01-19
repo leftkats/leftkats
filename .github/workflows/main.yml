@@ -37,8 +37,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repositories: |
-            - mlg87/pr-reviewer-slack-notify-action
             - feldroy/air
+            - python/pymanager
           labels: |
             - good first issue
-            - help wanted
