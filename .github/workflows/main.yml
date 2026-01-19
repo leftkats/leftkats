@@ -41,8 +41,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repositories: |
-            - mlg87/pr-reviewer-slack-notify-action
-            - feldroy/airgst
+            - feldroy/air
           labels: |
             - good first issue
-            - help wanted
