@@ -1,12 +1,16 @@
 name: generate animation
 
 on:
-  schedule:
-    - cron: "0 6 * * 1"
-  workflow_dispatch:
   push:
     branches:
-    - main
+      - test-action
+# on:
+#   schedule:
+#     - cron: "0 6 * * 1"
+#   workflow_dispatch:
+#   push:
+#     branches:
+#     - main
 
 jobs:
   generate:
@@ -36,9 +40,9 @@ jobs:
         uses: leftkats/issue-finder@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          repositories: |
-            - mlg87/pr-reviewer-slack-notify-action
-            - feldroy/air
-          labels: |
-            - good first issue
-            - help wanted
+          repositories:
+          - mlg87/pr-reviewer-slack-notify-action
+          - feldroy/air
+          labels:
+          - good first issue
+          - help wanted
