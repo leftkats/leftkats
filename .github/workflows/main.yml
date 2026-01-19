@@ -36,9 +36,9 @@ jobs:
         uses: leftkats/issue-finder@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          repositories:
+          repositories: |
             - mlg87/pr-reviewer-slack-notify-action
             - feldroy/air
-          labels:
+          labels: |
             - good first issue
             - help wanted
